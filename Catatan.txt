@@ -1,0 +1,18 @@
+Standar Styling :
+- dir :
+    assets
+        images
+        fonts
+
+    Lib
+        views
+        widgets
+        themes
+        services
+        models
+        repositories
+
+- setting assets pubspec 
+- setting theme :
+    Typograpy, colors, Constraints, TextString
+
